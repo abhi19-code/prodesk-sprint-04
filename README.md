@@ -29,12 +29,6 @@ This project is a React application that generates professional cover letters us
 npm install
 ```
 
-Run the project
-
-```bash
-npm run dev
-``
-
 ## Author
 
 Abhishek 
