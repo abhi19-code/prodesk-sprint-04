@@ -33,13 +33,7 @@ Run the project
 
 ```bash
 npm run dev
-```
-
-Create a .env file
-
-```
-VITE_GEMINI_API_KEY=YOUR_API_KEY
-```
+``
 
 ## Author
 
